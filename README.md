@@ -27,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
@@ -37,6 +38,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
@@ -47,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
