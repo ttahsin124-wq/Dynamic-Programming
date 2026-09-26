@@ -7,6 +7,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -30,6 +31,7 @@
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ttahsin124-wq/house-of-chaos/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
